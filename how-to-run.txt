@@ -1,0 +1,4 @@
+use cuda-11-7.sif
+conda env ldm
+
+torchrun main.py --base configs/autoencoder/celeba.yaml -t True --gpus 0,
