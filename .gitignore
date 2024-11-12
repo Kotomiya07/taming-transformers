@@ -12,3 +12,4 @@ latent_diffusion.egg-info/
 __pycache__/
 models/first_stage_models/*/model.*
 models/ldm/text2img-large/model.ckpt
+data/cifar-10-python.tar.gz
