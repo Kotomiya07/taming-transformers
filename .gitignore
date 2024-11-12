@@ -1,0 +1,14 @@
+logs/
+data/celebahq/
+data/cifar-10/
+data/cifar-10-batches-py/
+data/lsun/
+data/eval_data/
+reconstructed_images_pretrain/
+reconstructed_images_train/
+.vscode/
+wandb/
+latent_diffusion.egg-info/
+__pycache__/
+models/first_stage_models/*/model.*
+models/ldm/text2img-large/model.ckpt
